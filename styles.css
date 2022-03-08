@@ -1,0 +1,20 @@
+* {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    font-family: fantasy;
+    list-style-type: none;
+}
